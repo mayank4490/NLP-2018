@@ -1,7 +1,7 @@
 # NLP-2018
 Jupyter Notebooks for basic stuff covered in NLP course.
 
-## Installing Jupyter Notebook
+## Installing Jupyter Notebook in Ubuntu (Linux)
 
 - To install IPython, run the following command:
     `apt-get -y install ipython ipython-notebook`
